@@ -1,0 +1,19 @@
+# Large data
+papers.csv
+*/*/papers.csv
+
+# OSX
+.DS_STORE
+__MACOSX
+
+# Python byte-compiled / optimized / dll files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Python Environments
+.env
+.venv
